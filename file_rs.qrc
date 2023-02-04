@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="LabMotion">
+    <file>Lab.png</file>
+  </qresource>
+</RCC>
